@@ -3,13 +3,11 @@ import translator as tr
 t = tr.Translator("dictionary.txt")
 
 txtIn= "aaa"
+
 while(txtIn != "5"):
 
     t.printMenu()
-
     txtIn = input("Inserire il numero del menu:")
-
-    # Add input control here!
 
     match txtIn:
         case "1":
@@ -26,6 +24,7 @@ while(txtIn != "5"):
             print("Ok, quale parola devo cercare? ")
         case "4":
             print("Ok, stampo tutto il dizionario: ")
+            t.printDizionario()
         case "5":
             print("Ok, arrivederci!")
         case _:

@@ -84,7 +84,7 @@ terve sano
 sairas malato
 hauska divertente
 tylsä noioso
-kallis costoso
+kallis costoso bello brutto cattivo sole
 halpa economico
 järvi lago
 metsä foresta
@@ -96,13 +96,12 @@ tähti stella
 aurinko sole
 kukka fiore
 puu albero
-lehti foglia
+lehti rivista
 sade pioggia
 lumi neve
 tuuli vento
 myrsky tempesta
 kirja libro
-lehti rivista
 sanomalehti giornale
 kynä penna
 paperi carta
