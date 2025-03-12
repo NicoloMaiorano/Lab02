@@ -21,7 +21,8 @@ while(txtIn != "5"):
             t.handleTranslate(mystr)
 
         case "3":
-            print("Ok, quale parola devo cercare? ")
+            mystr= input("Ok, quale parola devo cercare? ").lower()
+            t.handleWildCard(mystr)
         case "4":
             print("Ok, stampo tutto il dizionario: ")
             t.printDizionario()
